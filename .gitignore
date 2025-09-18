@@ -113,9 +113,6 @@ StyleCopReport.xml
 *.svclog
 *.scc
 
-# Added by Say Sim
-*.json
-
 # Chutzpah Test files
 _Chutzpah*
 
@@ -419,3 +416,5 @@ FodyWeavers.xsd
 *.msix
 *.msm
 *.msp
+
+.vscode/*.json
